@@ -1,0 +1,74 @@
+{
+  "title": "Work Experience",
+  "list": [
+    {
+      "name": "Orka Labs Inc.",
+      "position": "Software Development Intern",
+      "startDate": "2023.07",
+      "endDate": "Present",
+      "description": "Responsible for adding features and maintaining the official Orka website",
+      "projects": [
+        {
+          "title": {
+            "text": "Orka Official Website",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Responsible for adding features and maintaining the official Orka website",
+          "startDate": "2023.07",
+          "endDate": "Present",
+          "which": ["Adding features", "Maintaining the official Orka website"],
+          "techStack": ["Next.js", "React"]
+        }
+      ]
+    },
+    {
+      "name": "Yonyou Software Co., Ltd.",
+      "position": "Software Development Intern",
+      "startDate": "2022.06",
+      "endDate": "2022.08",
+      "description": "Participated in the development of CPAS 6.0, successfully identifying and rectifying logic bugs",
+      "projects": [
+        {
+          "title": {
+            "text": "CPAS 6.0",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Participated in the development of CPAS 6.0, successfully identifying and rectifying logic bugs",
+          "startDate": "2022.06",
+          "endDate": "2022.08",
+          "which": [
+            "Identifying and rectifying logic bugs",
+            "Facilitated the migration of specific CPAS 5.2 functions to the CPAS 6.0 framework"
+          ],
+          "techStack": ["React"]
+        }
+      ]
+    },
+    {
+      "name": "Petoi LLC",
+      "position": "Research Intern",
+      "startDate": "2021.07",
+      "endDate": "2021.08",
+      "description": "Calibrated movements of Nybble Cats, a robot cat using Arduino (Java)",
+      "projects": [
+        {
+          "title": {
+            "text": "Nybble Cats",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Calibrated movements of Nybble Cats, a robot cat using Arduino (Java)",
+          "startDate": "2021.07",
+          "endDate": "2021.08",
+          "which": [
+            "Calibrated movements of Nybble Cats",
+            "Developed new movements of Nybble Cats using Petoi developed tools combining Arduino"
+          ],
+          "techStack": ["Arduino"]
+        }
+      ]
+    }
+  ]
+}

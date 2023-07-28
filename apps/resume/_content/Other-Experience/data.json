@@ -1,0 +1,59 @@
+{
+  "title": "Other Experience",
+  "list": [
+    {
+      "title": {
+        "text": "New York University Shanghai",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "Bachelor of Science in Computer Science",
+      "startDate": "2019.08",
+      "endDate": "2023.05",
+      "description": "Major in Computer Science with a minor in Interactive Media Arts and Mathematics",
+      "which": ["GPA: 3.6/4.0", "Major GPA: 3.86/4.0"]
+    },
+    {
+      "title": {
+        "text": "University of Illinois Urbana-Champaign",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "Master of Computer Science",
+      "startDate": "2024.01",
+      "endDate": "2026.06",
+      "description": "Successfully enrolled and prepared to commence studies in Spring 2024",
+      "which": []
+    },
+    {
+      "title": {
+        "text": "Piano Performance Transfer",
+        "githubLink": null,
+        "otherLink": "https://arxiv.org/abs/2209.10674"
+      },
+      "position": "Researcher ",
+      "startDate": "2021.12",
+      "endDate": "Present",
+      "description": "The research focuses on Computer Music. We aim to transfer performance between different pianos to make them sound alike as much as possible.",
+      "which": [
+        "Developed a simulator algorithm using python",
+        "Co-authored a paper titled 'Modeling Perceptual Loudness of Piano Tone'"
+      ]
+    },
+    {
+      "title": {
+        "text": "From Anime to Reality: Transforming Anime Images into Real Images",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "Researcher",
+      "startDate": "2022.07",
+      "endDate": "2022.12",
+      "description": "Our goal is to transform animated images into realistic images, which has profound applications in areas such as game character modeling and generating real-life videos from cartoon drawings.",
+      "which": [
+        "Participated in the design and execution of a series of experiments",
+        "Conducted in-depth studies on various generative models"
+      ]
+    }
+  ]
+}

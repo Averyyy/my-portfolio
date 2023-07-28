@@ -1,0 +1,33 @@
+{
+  "title": "Skills",
+  "list": [
+    {
+      "name": "Languages",
+      "descriptions": ["Chinese Mandarin (native)", "English (fluent)"]
+    },
+    {
+      "name": "Web Development",
+      "descriptions": [
+        "Proficient in JavaScript (Node.js), Express.js, React.js, MongoDB",
+        "Experience with Three.js, p5.js, Socket.io, Tailwind.css, Python Flask, and MySQL"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "descriptions": [
+        "Well-versed in various AI techniques, including computer vision and natural language processing",
+        "Experience in text classification, word embeddings, sequence tagging, neural sequence modeling, Transformer, GPT, BERT, and other advanced NLP techniques"
+      ]
+    },
+    {
+      "name": "Other Skills",
+      "descriptions": [
+        "Proficient in Python (including PyTorch, TensorFlow, matplotlib, pandas, etc.), C, Arduino (Java, and various Arduino modules), Git"
+      ]
+    },
+    {
+      "name": "Interests",
+      "descriptions": ["Piano", "Music", "Movies", "Gaming"]
+    }
+  ]
+}
