@@ -6,19 +6,24 @@
       "position": "Software Development Intern",
       "startDate": "2023.07",
       "endDate": "Present",
-      "description": "Responsible for adding features and maintaining the official Orka website",
+      "description": "Responsible for maintaining the official Orka website",
       "projects": [
         {
           "title": {
             "text": "Orka Official Website",
             "githubLink": null,
-            "otherLink": null
+            "otherLink": "https://www.hiorka.com/"
           },
           "description": "Responsible for adding features and maintaining the official Orka website",
           "startDate": "2023.07",
           "endDate": "Present",
-          "which": ["Adding features", "Maintaining the official Orka website"],
-          "techStack": ["Next.js", "React"]
+          "which": [
+            "Refactoring code base",
+            "Adding features and removing bugs",
+            "Maintaining the official Orka website",
+            "Managing databases and AWS services"
+          ],
+          "techStack": ["Next.js", "React.js", "Material UI", "AWS", "SQL"]
         }
       ]
     },
@@ -42,7 +47,7 @@
             "Identifying and rectifying logic bugs",
             "Facilitated the migration of specific CPAS 5.2 functions to the CPAS 6.0 framework"
           ],
-          "techStack": ["React"]
+          "techStack": ["React.js", "Ant Design", "DevExpress", "umi.js"]
         }
       ]
     },
@@ -66,7 +71,7 @@
             "Calibrated movements of Nybble Cats",
             "Developed new movements of Nybble Cats using Petoi developed tools combining Arduino"
           ],
-          "techStack": ["Arduino"]
+          "techStack": ["Arduino Uno", "Java"]
         }
       ]
     }
