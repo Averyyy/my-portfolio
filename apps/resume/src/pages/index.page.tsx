@@ -2,6 +2,7 @@ import { data as headerData, Header as HeaderType } from '../../_content/Header'
 import { data as otherExperienceDate, OtherExperience } from '../../_content/Other-Experience';
 import { data as skillsData, Skills } from '../../_content/Skills';
 import { data as workExperienceData, WorkExperience } from '../../_content/Work-Experience';
+import { data as educationExperienceData, EducationExperience } from '../../_content/Education-Experience';
 import Header from '../components/Header';
 import OtherExperienceSection from '../components/OtherExperienceSection';
 import SkillsSection from '../components/SkillsSection/SkillsSection';
@@ -18,9 +19,11 @@ function Resume({ header, workExperience, otherExperience, skills }: Props) {
   return (
     <main>
       <Header {...header} />
+      <OtherExperienceSection {...educationExperienceData} />
       <WorkExperienceSection {...workExperience} />
-      <OtherExperienceSection {...otherExperience} />
       <SkillsSection {...skills} />
+
+      <OtherExperienceSection {...otherExperience} />
     </main>
   );
 }

@@ -1,30 +1,6 @@
 {
-  "title": "Other Experience",
+  "title": "Research Experience",
   "list": [
-    {
-      "title": {
-        "text": "New York University Shanghai",
-        "githubLink": null,
-        "otherLink": null
-      },
-      "position": "Bachelor of Science in Computer Science",
-      "startDate": "2019.08",
-      "endDate": "2023.05",
-      "description": "Major in Computer Science with a minor in Interactive Media Arts and Mathematics",
-      "which": ["Major GPA: 3.86/4.0"]
-    },
-    {
-      "title": {
-        "text": "University of Illinois Urbana-Champaign",
-        "githubLink": null,
-        "otherLink": null
-      },
-      "position": "Master of Computer Science",
-      "startDate": "2024.01",
-      "endDate": "2026.06",
-      "description": "Successfully enrolled and prepared to commence studies in Spring 2024",
-      "which": []
-    },
     {
       "title": {
         "text": "Piano Performance Transfer",

@@ -3,10 +3,10 @@
   "list": [
     {
       "name": "Orka Labs Inc.",
-      "position": "Software Development Intern",
+      "position": "Software Development Intern (Full-stack)",
       "startDate": "2023.07",
       "endDate": "Present",
-      "description": "Responsible for maintaining the official Orka website",
+      "description": "Maintained key functionalities of the official Orka official website v2; Refactored legacy codes; Managed Amazon Web Services; Optimized website load time.",
       "projects": [
         {
           "title": {
@@ -14,25 +14,31 @@
             "githubLink": null,
             "otherLink": "https://www.hiorka.com/"
           },
-          "description": "Responsible for adding features and maintaining the official Orka website",
+          "description": "Responsibilities included maintaining the official Orka website, refactoring code, and managing AWS services.",
           "startDate": "2023.07",
           "endDate": "Present",
           "which": [
-            "Refactoring code base",
-            "Adding features and removing bugs",
-            "Maintaining the official Orka website",
-            "Managing databases and AWS services"
+            "Maintained key functionalities of the official Orka official website v2, including the Hearing Aids Blog and Support Center pages. Successfully resolved over 50 bugs and issues",
+            "Refactored over 2400 lines of disorganized legacy codes and implemented ESLint files, correcting over 6000 errors among 10484 errors",
+            "Managed Amazon Web Services for website deployment and databases, optimized website load time by 10%"
           ],
-          "techStack": ["Next.js", "React.js", "Material UI", "AWS", "SQL"]
+          "techStack": [
+            "Next.js",
+            "React.js",
+            "Material UI(MUI)",
+            "AWS (S2, Cloudfront, EC2, Lightsail)",
+            "postgreSQL",
+            "Git"
+          ]
         }
       ]
     },
     {
       "name": "Yonyou Software Co., Ltd.",
-      "position": "Software Development Intern",
+      "position": "Software Development Intern (Front-end)",
       "startDate": "2022.06",
       "endDate": "2022.08",
-      "description": "Participated in the development of CPAS 6.0, successfully identifying and rectifying logic bugs",
+      "description": "Migrated and integrated CPAS 5.2 features into CPAS 6.0; Independently completed core project functionalities.",
       "projects": [
         {
           "title": {
@@ -40,38 +46,14 @@
             "githubLink": null,
             "otherLink": null
           },
-          "description": "Participated in the development of CPAS 6.0, successfully identifying and rectifying logic bugs",
+          "description": "Participated in the development of CPAS 6.0, successfully identifying and rectifying logic bugs; Facilitated the migration of specific CPAS 5.2 functions to the CPAS 6.0 framework.",
           "startDate": "2022.06",
           "endDate": "2022.08",
           "which": [
-            "Identifying and rectifying logic bugs",
-            "Facilitated the migration of specific CPAS 5.2 functions to the CPAS 6.0 framework"
+            "Migrated and integrated over 25 CPAS 5.2 powerful features into the new CPAS 6.0 system",
+            "Independently completed core project functionalities including mini-programs (e.g., OCR/ASR recognition)"
           ],
-          "techStack": ["React.js", "Ant Design", "DevExpress", "umi.js"]
-        }
-      ]
-    },
-    {
-      "name": "Petoi LLC",
-      "position": "Research Intern",
-      "startDate": "2021.07",
-      "endDate": "2021.08",
-      "description": "Calibrated movements of Nybble Cats, a robot cat using Arduino (Java)",
-      "projects": [
-        {
-          "title": {
-            "text": "Nybble Cats",
-            "githubLink": null,
-            "otherLink": null
-          },
-          "description": "Calibrated movements of Nybble Cats, a robot cat using Arduino (Java)",
-          "startDate": "2021.07",
-          "endDate": "2021.08",
-          "which": [
-            "Calibrated movements of Nybble Cats",
-            "Developed new movements of Nybble Cats using Petoi developed tools combining Arduino"
-          ],
-          "techStack": ["Arduino Uno", "Java"]
+          "techStack": ["React.js", "DevExpress", "Ant Design", "umi.js", "Git"]
         }
       ]
     }
