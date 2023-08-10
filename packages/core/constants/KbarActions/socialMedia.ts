@@ -75,3 +75,16 @@ pushActionWhenValid(twitterUrl, {
   icon: 'Twitter',
   perform: () => openExternalLink(twitterUrl),
 });
+
+pushActionWhenValid('./cv-pdf/Avery_2023.pdf', {
+  id: 'pdf',
+  name: 'PDF',
+  subtitle: 'Avery_2023.pdf',
+  section: 'Documents',
+  shortcut: [],
+  keywords: 'pdf, resume, document',
+  icon: 'PDF',
+  perform: () => openExternalLink('./cv-pdf/Avery_2023.pdf'),
+});
+
+
