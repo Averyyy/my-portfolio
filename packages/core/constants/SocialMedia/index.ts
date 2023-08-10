@@ -7,6 +7,6 @@ export const instagramUrl = 'https://www.instagram.com/avery_qhk';
 
 export const facebookUrl = '';
 
-export const linkedInUrl = 'https://www.linkedin.com/in/hangkai-qian-56108b1a8/';
+export const linkedInUrl = 'https://www.linkedin.com/in/avery-qian-56108b1a8/';
 
 export const twitterUrl = '';
