@@ -18,13 +18,14 @@
           "startDate": "2023.07",
           "endDate": "Present",
           "which": [
-            "Maintained key functionalities of the official Orka official website v2, including the Hearing Aids Blog and Support Center pages. Successfully resolved over 50 bugs and issues",
-            "Refactored over 2400 lines of disorganized legacy codes and implemented ESLint files, correcting over 6000 errors among 10484 errors",
+            "Maintained key functionalities of the official Orka official website v2, including the Hearing Aids Blog and Support Center pages. Resolved over 100 bugs and issues, contributing over 80000 lines of updates",
+            "Refactored over 33000 lines of disorganized legacy codes and set up ESLint & husky & lint-staged files that automatically inspect the code every time a Pull Request is committed, correcting over 6000 errors among 10484 errors",
             "Managed Amazon Web Services for website deployment and databases, optimized website load time by 10%"
           ],
           "techStack": [
             "Next.js",
             "React.js",
+            "Redux",
             "Material UI(MUI)",
             "AWS (S2, Cloudfront, EC2, Lightsail)",
             "postgreSQL",
