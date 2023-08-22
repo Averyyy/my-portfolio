@@ -5,6 +5,7 @@ import { authorImage, authorName, favicon, resumeGAID, resumeHotjarID } from 'co
 
 import { resumeUrl } from '../../_config';
 import { data } from '../../_content/Header';
+import { Analytics } from '@vercel/analytics/react';
 
 const TITLE = `${authorName} resume`;
 
@@ -77,6 +78,7 @@ export default class ResumeDocument extends Document {
         <body>
           <Layout>
             <Main />
+            <Analytics />
             <Footer />
           </Layout>
           <NextScript />
