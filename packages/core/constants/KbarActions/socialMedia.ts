@@ -78,7 +78,7 @@ pushActionWhenValid(twitterUrl, {
 
 pushActionWhenValid('./cv-pdf/Avery_2023.pdf', {
   id: 'pdf',
-  name: 'PDF',
+  name: 'My Resume (Last Updated by 2023-08)',
   subtitle: 'Avery_2023.pdf',
   section: 'Documents',
   shortcut: [],
