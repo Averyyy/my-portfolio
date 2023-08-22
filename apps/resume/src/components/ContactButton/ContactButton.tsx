@@ -10,7 +10,7 @@ function ContactButton() {
   return (
     <Div>
       <Button shadow color="primary" auto onClick={() => query.toggle()} size={isSmallButtonSize ? 'sm' : 'md'}>
-        Contact
+        Contact & My CV PDF Download
       </Button>
     </Div>
   );

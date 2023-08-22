@@ -83,7 +83,7 @@ pushActionWhenValid('./cv-pdf/Avery_2023.pdf', {
   section: 'Documents',
   shortcut: [],
   keywords: 'pdf, resume, document',
-  icon: 'PDF',
+  icon: 'Info',
   perform: () => openExternalLink('./cv-pdf/Avery_2023.pdf'),
 });
 
