@@ -9,6 +9,7 @@ import { KBarProvider } from 'kbar';
 
 import ContactButton from '../components/ContactButton';
 import generateKbarAction from '../libs/KbarActions';
+import { Analytics } from '@vercel/analytics/react';
 
 const KbarComponent = dynamic(() => import('core/components/Kbar'), {
   ssr: false,
@@ -26,6 +27,8 @@ export default function ResumeApp({ Component, pageProps }: AppProps) {
           <Title />
           <KbarComponent />
           <Component {...pageProps} />
+          <Analytics />
+
           <ContactButton />
         </KBarProvider>
       </NextUIProvider>
