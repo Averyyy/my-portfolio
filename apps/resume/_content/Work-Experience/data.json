@@ -17,17 +17,19 @@
           "description": "Responsibilities included maintaining the official Orka website, refactoring code, and managing AWS services.",
           "startDate": "2023.07",
           "endDate": "Present",
+
           "which": [
-            "Maintained key functionalities of the official Orka official website v2, including the Hearing Aids Blog and Support Center pages. Resolved over 100 bugs and issues, contributing over 80000 lines of updates",
-            "Refactored over 33000 lines of disorganized legacy codes and set up ESLint & husky & lint-staged files that automatically inspect the code every time a Pull Request is committed, correcting over 6000 errors among 10484 errors",
-            "Managed Amazon Web Services for website deployment and databases, optimized website load time by 10%"
+            "Maintained Key Functionalities: Ensured the stability of the official Orka website (v2), including the Hearing Aids Blog and Support Center pages, successfully resolving over 50 bugs and issues.",
+            "Code Refactoring: Overhauled over 2400 lines of disorganized legacy code, implemented ESLint files and husky script for automated code inspections before code commit.",
+            "Website Optimization: Managed Amazon Web Services (AWS) for website deployment and databases, such as optimized image responsiveness, enhancing website efficiency by reducing load time by 10%.",
+            "AI in Customer Service: Single-handedly managed implementation of a GPT-3.5 turbo fine-tuned Customer Service Bot across the entire tech stack. Responsibilities included automatic dataset formation from a Lark workspace, OpenAI fine-tuning and embedding forming & matching, setting up a Django backend API server and Database on AWS, and developing a Next.js frontend interface."
           ],
           "techStack": [
             "Next.js",
             "React.js",
-            "Redux",
+            "Django",
             "Material UI(MUI)",
-            "AWS (S2, Cloudfront, EC2, Lightsail)",
+            "AWS (S2, Cloudfront, EC2, Lambda)",
             "postgreSQL",
             "Git"
           ]
