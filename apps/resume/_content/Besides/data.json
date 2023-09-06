@@ -1,0 +1,17 @@
+[
+  {
+    "type": "website",
+    "title": "Hammond Liu",
+    "link": "https://hmdliu.site/"
+  },
+  {
+    "type": "website",
+    "title": "Nigel Lu",
+    "link": "https://nigellu.github.io/"
+  },
+  {
+    "type": "song",
+    "title": "Recent Playing Song",
+    "spotifyEmbedLink": "https://open.spotify.com/embed/track/3NQtYTbGk64fHf8ZIppj69?utm_source=generator"
+  }
+]
